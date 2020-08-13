@@ -1,0 +1,8 @@
+C:\Users\AltimaPC\Desktop\.net\GoodBooks.Data\bin\Debug\netcoreapp3.1\GoodBooks.Data.deps.json
+C:\Users\AltimaPC\Desktop\.net\GoodBooks.Data\bin\Debug\netcoreapp3.1\GoodBooks.Data.dll
+C:\Users\AltimaPC\Desktop\.net\GoodBooks.Data\bin\Debug\netcoreapp3.1\GoodBooks.Data.pdb
+C:\Users\AltimaPC\Desktop\.net\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.csprojAssemblyReference.cache
+C:\Users\AltimaPC\Desktop\.net\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.AssemblyInfoInputs.cache
+C:\Users\AltimaPC\Desktop\.net\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.AssemblyInfo.cs
+C:\Users\AltimaPC\Desktop\.net\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.dll
+C:\Users\AltimaPC\Desktop\.net\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.pdb
