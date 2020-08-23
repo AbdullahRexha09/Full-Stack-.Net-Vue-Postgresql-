@@ -6,3 +6,6 @@ C:\Users\AltimaPC\Desktop\.net\GoodBooks.Services\obj\Debug\netcoreapp3.1\GoodBo
 C:\Users\AltimaPC\Desktop\.net\GoodBooks.Services\obj\Debug\netcoreapp3.1\GoodBooks.Services.AssemblyInfo.cs
 C:\Users\AltimaPC\Desktop\.net\GoodBooks.Services\obj\Debug\netcoreapp3.1\GoodBooks.Services.dll
 C:\Users\AltimaPC\Desktop\.net\GoodBooks.Services\obj\Debug\netcoreapp3.1\GoodBooks.Services.pdb
+C:\Users\AltimaPC\Desktop\.net\GoodBooks.Services\bin\Debug\netcoreapp3.1\GoodBooks.Data.dll
+C:\Users\AltimaPC\Desktop\.net\GoodBooks.Services\bin\Debug\netcoreapp3.1\GoodBooks.Data.pdb
+C:\Users\AltimaPC\Desktop\.net\GoodBooks.Services\obj\Debug\netcoreapp3.1\GoodBooks.Services.csproj.CopyComplete
