@@ -14,5 +14,6 @@ namespace GoodBooks.Data
         public virtual DbSet<Book> Books {get;set;}
         public virtual DbSet<BooksReview> BooksReviews {get;set;}
         
+        
     }
 }
