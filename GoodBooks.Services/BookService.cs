@@ -7,6 +7,10 @@ namespace GoodBooks.Services
 {
     public class BookService : IBooksService
     {
+        private readonly GoodBooksDbContext dbContext;
+        public BookService(GoodBooksDbContext db){
+            dbContext = db;
+        }
         public void AddBook(Book book)
         {
             throw new NotImplementedException();

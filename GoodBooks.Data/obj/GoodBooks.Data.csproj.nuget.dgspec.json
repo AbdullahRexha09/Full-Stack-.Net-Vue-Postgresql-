@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj": {}
+    "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj": {
+    "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj",
+        "projectUniqueName": "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj",
         "projectName": "GoodBooks.Data",
-        "projectPath": "C:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj",
+        "projectPath": "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj",
         "packagesPath": "C:\\Users\\AltimaPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\obj\\",
+        "outputPath": "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AltimaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
