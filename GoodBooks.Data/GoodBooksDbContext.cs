@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using GoodBooks.Data.Models;
+using System;
 
 namespace GoodBooks.Data
 {
@@ -13,7 +14,7 @@ namespace GoodBooks.Data
         }
         public virtual DbSet<Book> Books {get;set;}
         public virtual DbSet<BooksReview> BooksReviews {get;set;}
-        
+
         
     }
 }
