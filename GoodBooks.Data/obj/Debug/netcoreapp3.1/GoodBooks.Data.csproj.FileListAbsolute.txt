@@ -6,3 +6,5 @@ C:\Users\AltimaPC\Desktop\.net\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.
 C:\Users\AltimaPC\Desktop\.net\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.AssemblyInfo.cs
 C:\Users\AltimaPC\Desktop\.net\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.dll
 C:\Users\AltimaPC\Desktop\.net\GoodBooks.Data\obj\Debug\netcoreapp3.1\GoodBooks.Data.pdb
+C:\Users\AltimaPC\Desktop\.net\GoodBooks.Data\bin\Debug\netcoreapp3.1\GoodBooks.Data.runtimeconfig.json
+C:\Users\AltimaPC\Desktop\.net\GoodBooks.Data\bin\Debug\netcoreapp3.1\GoodBooks.Data.runtimeconfig.dev.json
