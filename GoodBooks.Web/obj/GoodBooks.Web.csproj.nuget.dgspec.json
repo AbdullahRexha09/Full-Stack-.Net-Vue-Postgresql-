@@ -4,14 +4,14 @@
     "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Web\\GoodBooks.Web.csproj": {}
   },
   "projects": {
-    "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Web\\GoodBooks.Web.csproj": {
+    "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Web\\GoodBooks.Web.csproj",
-        "projectName": "GoodBooks.Web",
-        "projectPath": "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Web\\GoodBooks.Web.csproj",
+        "projectUniqueName": "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj",
+        "projectName": "GoodBooks.Data",
+        "projectPath": "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj",
         "packagesPath": "C:\\Users\\AltimaPC\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Web\\obj\\",
+        "outputPath": "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AltimaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,6 +42,72 @@
               "target": "Package",
               "version": "[3.1.1, )"
             },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Web\\GoodBooks.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Web\\GoodBooks.Web.csproj",
+        "projectName": "GoodBooks.Web",
+        "projectPath": "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Web\\GoodBooks.Web.csproj",
+        "packagesPath": "C:\\Users\\AltimaPC\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AltimaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj": {
+                "projectPath": "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
               "version": "[3.1.1, )"
@@ -56,7 +122,7 @@
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[3.1.1, )"
+              "version": "[3.1.4, )"
             }
           },
           "imports": [

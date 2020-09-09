@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj": {}
+    "C:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj": {}
   },
   "projects": {
-    "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj": {
+    "C:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj",
+        "projectUniqueName": "C:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj",
         "projectName": "GoodBooks.Data",
-        "projectPath": "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj",
+        "projectPath": "C:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\GoodBooks.Data.csproj",
         "packagesPath": "C:\\Users\\AltimaPC\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\obj\\",
+        "outputPath": "C:\\Users\\AltimaPC\\Desktop\\.net\\GoodBooks.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AltimaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
